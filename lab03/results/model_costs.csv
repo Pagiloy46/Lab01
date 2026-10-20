@@ -1,0 +1,4 @@
+model,parameters,thop_macs,approx_flops_from_macs
+MLP,235146,234752.0,469504.0
+CNN,20490,1031744.0,2063488.0
+Attention,104266,50816.0,101632.0
